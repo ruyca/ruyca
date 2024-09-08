@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey there! I'm Ruy Cabello, a tech enthusiast currently <br>diving into backend development with Python and Flask.<br>I love participating in hackathons and exploring new challenges! 🧑‍💻<br><br>I’m passionate about:<br><br>🐍 Python <br>🐧 Linux  & Shell Scripting 🖥️<br>🌐 Networking <br>🍎 Building apps in Swift <br><br>Let’s connect and build something awesome together! 🚀
+👋 Hey there! I'm Ruy Cabello, a tech enthusiast currently diving into backend development with Python and Flask. I love participating in hackathons and exploring new challenges! 🧑‍💻. I’m passionate about:<br><br>🐍 Python <br>🐧 Linux  & Shell Scripting 🖥️<br>🌐 Networking <br>🍎 Building apps in Swift <br><br>Let’s connect and build something awesome together! 🚀
 
 
 ## 🌐 Socials:
